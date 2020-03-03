@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "acabar": "ng build --prod"
+    "ts-node": "ts-node"
   },
   "private": true,
   "dependencies": {
