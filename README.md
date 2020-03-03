@@ -2,6 +2,42 @@
 
 Curso de Angular en BNP
 
+
+- Introducción a Angular 
+    - Conceptos: ¿Qué es Angular? 
+    - Origen y evolución: AngularJS (1.x) y Angular         
+    - Versiones: Angular 8.x 
+- Entorno de trabajo 
+    - Navegadores 
+    - Editores: Visual Studio Code. TSLint          
+    - Git 
+    - NodeJS 
+    - npm. Package.json. Scripts 
+- Herramientas de Desarrollo de aplicaciones SPA 
+    - Angular CLI.  Novedades en CLI 6.x ...
+    - WebPack 4  
+    - Formas de compilación: JIT / AOT. Novedades en Angular 6.x 
+- Proyecto inicial 
+    - Bootstrap y Font Awesome 
+
+- Tecnologías implicadas 
+    - JavaScript ES6 
+        - Nueva sintaxis 
+        - Módulos 
+        - Clases. Herencia   
+        - Promesas 
+    - Introducción a TypeScript 
+        - Clases e interfaces 
+        - Tipos: types y generics. Union types 
+        - Decoradores 
+
+
+
+
+-----------------------
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
 ## Development server
