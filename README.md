@@ -31,6 +31,15 @@ Curso de Angular en BNP
         - Tipos: types y generics. Union types 
         - Decoradores 
 
+-----------------------
+- Arquitectura de Angular.  Aplicaciones SPA
+    - Estructura de directorios. Módulos
+    - Componentes: Anotaciones, Plantillas y Clases 
+- Enrutamiento y navegación
+    -	Carga diferida (Lazy Loading) en Angular 6.x
+- Componentes
+    - Plantillas (Templates)
+    - Enlace a datos y Enlace a eventos.  Binding 
 
 
 
