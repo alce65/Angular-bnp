@@ -1,1 +1,17 @@
-<p>tareas works!</p>
+<h2>Tareas</h2>
+
+<bnp-nueva (evAdd)="onAdd($event)"></bnp-nueva>
+
+<div *ngIf="listaTareas.length">
+    <h3>Lista de tareas</h3>
+    <ul>
+        <li *ngFor="let item of listaTareas; let i=index">
+            <bnp-item [tarea]="item" 
+                (evChange)="onChange($event, i)"
+                (evDelete)="onDelete(i)"></bnp-item>
+        </li>
+    </ul>    
+</div>
+
+
+ 

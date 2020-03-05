@@ -1,0 +1,8 @@
+<h2>Saludo Ref Local</h2>
+<input type="text" placeholder="De nuevo tu nombre" #refNombre>
+<button (click)="refNombre.value = refNombre.value ">Guardar</button>
+<button (click)="refNombre.value = '' ">Borrar</button>
+<div>
+    Hola {{ refNombre.value }}
+</div>
+<p>Ejemplo de ANTI-PATRON</p>

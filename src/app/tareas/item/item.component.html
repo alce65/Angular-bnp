@@ -1,0 +1,6 @@
+<input type="checkbox" name="" id="" 
+    [formControl]="fcCompleted">
+<span [ngClass]="{acabado: tarea.isCompleted}">
+    {{ tarea.titulo }}
+</span>    
+<span class="button" (click)="onSendDelete()">🚮</span>

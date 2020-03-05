@@ -1,7 +1,7 @@
 
 <footer>
     <address>
-        {{autor}} - {{empresa}}
+        {{autor | uppercase}} - {{empresa}}
     </address>
-    <p>{{hoy.toLocaleDateString()}}</p>
+    <p>{{hoy | date : 'fullDate' : null : 'en'}}</p>
 </footer>
