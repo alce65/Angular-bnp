@@ -41,6 +41,23 @@ Curso de Angular en BNP
     - Plantillas (Templates)
     - Enlace a datos y Enlace a eventos.  Binding 
 
+----------------------
+- Componentes complejos, Datos, Directivas y Pipes
+    - Modelos de datos.
+    - Comunicación ente componentes. Input/Output
+- Directivas.
+    - Directivas estructurales (ngIf, ngFor)
+    - Directivas de atributo y CSS (ngClass, ngStyle)
+- Pipes. 
+    - Pipes incorporados al framework. 
+    - Internacionalización
+- Providers, Inyectores y servicios
+    - Inyección de dependencias
+    - Concepto de providers en Angular
+    - Árbol de providers (Factory, Instance)
+- Servicios
+    - Servicios incorporados (Location, Router, FormBuilder, HttpClient).
+    - Servicios propios (e.g. LocalStorage)
 
 
 -----------------------
