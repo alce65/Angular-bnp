@@ -75,6 +75,17 @@ Curso de Angular en BNP
 
 ----------
 
+- Programación reactiva y RxJS 
+    - Conceptos de RxJS
+    - Flujo de datos asíncrono
+    - Observables y Observadores
+    - Suscripciones (Subscribe)
+    - Operadores más comunes en RxJS 6
+
+- Acceso a datos del Servidor. HttpClient
+    - Acceso al servidor. Promesas y observables
+    - Servicios propios encapsulando HttpClient
+    - Peticiones HTTP: Get, Put, Post y Delete
 
 
 
