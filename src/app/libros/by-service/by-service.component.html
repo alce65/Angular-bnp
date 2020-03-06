@@ -1,0 +1,22 @@
+<h2>Libros en Google (via servicio propio)</h2>
+<input type="text" placeholder="Clave de busqueda" 
+    [formControl]="fcClave">
+<button (click)="onBuscar()">Buscar</button>
+<button (click)="onBuscarRx()">BuscarRx</button>
+<div *ngIf="libros.length">
+    <h3>Lista de libros </h3>
+    <table>
+       <tr>
+           <th>Id</th>
+           <th>Autores</th>
+           <th>Titulo</th>
+       </tr> 
+        <tr *ngFor="let item of libros">
+            <td>{{item.id}}</td>
+            <td>{{item.autores}}</td>
+            <td>{{item.titulo}}</td>
+        </tr>
+    </table>
+</div>
+
+<!-- {{ libros$ | async | json }} -->

@@ -59,8 +59,22 @@ Curso de Angular en BNP
     - Servicios incorporados (Location, Router, FormBuilder, HttpClient).
     - Servicios propios (e.g. LocalStorage)
 
-
 -----------------------
+
+- Formularios
+    - Formularios "tradicionales" (Template Driven)
+    - Validación
+- Formularios reactivos (Model Driven)
+    - Validación
+
+- Testing 
+    - Entorno de Testing Inicial
+        - Tests unitarios. Plataforma: Karma + Jasmine.
+            - Introducción a TestBed
+    - Test E2E. Protractor
+
+----------
+
 
 
 
