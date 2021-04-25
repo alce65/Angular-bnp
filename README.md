@@ -1,6 +1,7 @@
 # AngularBnp
 
-Curso de Angular en BNP
+Curso Angular 9 en BNP (CAS Training)
+Marzo 2020
 
 
 - Introducción a Angular 
